@@ -48,7 +48,6 @@ const Formulario = ({crearCita}) => {
             hora: '',
             sintomas: ''
         })
-
     }
 
     return ( 
